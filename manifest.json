@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "description": "Chat with  from !",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "chat.campique",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "chat.campique",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
